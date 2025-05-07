@@ -19,14 +19,14 @@ const Hero: React.FC = () => {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12 sm:py-16 md:py-20 lg:py-32 flex flex-col lg:flex-row items-center justify-between relative z-10 gap-12 lg:gap-20">
         <div className="lg:w-1/2 text-center lg:text-left mb-8 lg:mb-0">
           <h1 className="text-4xl sm:text-5xl lg:text-6xl font-bold text-white leading-tight animate-fade-in">
-            Creating a <span className="text-green-400">Sustainable</span>{" "}
-            Future Together
+            <span className="text-green-400">ProsureTech</span>: Creating a{" "}
+            <span className="text-green-400">Sustainable</span> Future Together
           </h1>
           <p
             className="mt-4 sm:mt-6 text-base sm:text-lg lg:text-xl text-green-100 max-w-2xl mx-auto lg:mx-0 animate-slide-up"
             style={{ animationDelay: "0.2s" }}
           >
-            Join our mission to protect the planet through innovation, and
+            Join ProsureTech's mission to protect the planet through innovation and
             community action. Every small step makes a difference.
           </p>
           <div

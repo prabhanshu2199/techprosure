@@ -9,7 +9,7 @@ const Footer: React.FC = () => {
           <div>
             <div className="flex items-center mb-4">
               <Leaf className="h-7 w-7 text-green-400" />
-              <span className="ml-2 text-xl font-bold text-white">EcoGlobe</span>
+              <span className="ml-2 text-xl font-bold text-white">ProsureTech</span>
             </div>
             <p className="text-green-300 mb-4">
               Creating a sustainable future through innovation, education, and community action.
@@ -58,7 +58,7 @@ const Footer: React.FC = () => {
         </div>
         
         <div className="mt-12 pt-8 border-t border-green-800 flex flex-col md:flex-row justify-between items-center">
-          <p className="text-green-400 text-sm">© 2025 EcoGlobe. All rights reserved.</p>
+          <p className="text-green-400 text-sm">© 2025 ProsureTech. All rights reserved.</p>
           <div className="mt-4 md:mt-0 flex space-x-6">
             <a href="#" className="text-green-400 hover:text-green-300 text-sm">Privacy Policy</a>
             <a href="#" className="text-green-400 hover:text-green-300 text-sm">Terms of Service</a>
