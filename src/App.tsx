@@ -9,7 +9,7 @@ import Footer from "./components/Footer";
 
 function App() {
   useEffect(() => {
-    document.title = "ProsureTech | Sustainability for a Better Future";
+    document.title = "ProsureTech company | Sustainability for a Better Future";
   }, []);
 
   return (
